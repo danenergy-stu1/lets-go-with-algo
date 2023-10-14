@@ -1,0 +1,6 @@
+7. Ask your instructor for a SECRET KEY NUMBER and subtract 5 from it. [Query and Calculate Activity]
+
+ 
+
+
+8. Open file task_5.txt

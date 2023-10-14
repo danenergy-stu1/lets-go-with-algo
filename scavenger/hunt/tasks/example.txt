@@ -1,0 +1,6 @@
+ - Write your full name. [Writing Activity]
+
+
+
+ 
+ - Open file task_1.txt

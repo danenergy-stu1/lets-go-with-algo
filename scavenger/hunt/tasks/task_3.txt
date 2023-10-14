@@ -1,0 +1,8 @@
+3. Find the SUM of the following numbers. [Calculation Activity]
+
+        7 + 12 + 4 + 8 + 13
+
+
+
+ 
+4. Open file task_2.txt
